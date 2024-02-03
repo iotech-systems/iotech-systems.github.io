@@ -26,9 +26,13 @@ div.page-head-lbl {
 
 div.page-head-home {
    display: inline-block;
-   width: 8vh; height: 8vh;
+   width: 6.8vh; 
+   height: 6.8vh;
+   margin: calc(1.2vh - 1px);
    background-position: center;
    background-repeat: no-repeat;
    background-size: contain;
    background-image: url(/imgs/logo_64px.png);
+   border: 1px solid darkblue;
+   border-radius: 4.4vh;
 }
