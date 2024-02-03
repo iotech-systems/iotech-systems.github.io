@@ -7,7 +7,10 @@ html, body {
 div.page-head {
    width: 98vw;
    height: 8vh;
+   line-height: 8vh;
    margin: 2vh auto;
-   border: 1px solid #dcdcdc;
-   border-radius: 1vh;
+   font-size: 3.2vh;
+   text-indent: 4vh;
+   border: 2px solid #dcdcdc;
+   border-radius: 4vh;
 }
