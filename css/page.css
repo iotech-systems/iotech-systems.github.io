@@ -38,6 +38,12 @@ div.page-head-home {
    vertical-align: top;
 }
 
+div.page-head-home a {
+   display: inline-block;
+   width: 6.6vh;
+   height: 6.6vh;
+}
+
 div.page-head-home:hover {
    cursor: pointer;
 }
