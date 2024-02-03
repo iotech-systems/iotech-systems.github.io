@@ -5,6 +5,9 @@ html, body {
 }
 
 div.page-head {
-   width: 100vw;
+   width: 98vw;
    height: 8vh;
+   margin: 2vh auto;
+   border: 1px solid #dcdcdc;
+   border-radius: 1vh;
 }
