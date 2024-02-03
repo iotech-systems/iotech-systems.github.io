@@ -35,4 +35,9 @@ div.page-head-home {
    background-image: url(/imgs/logo_64px.png);
    border: 1px solid darkblue;
    border-radius: 4.4vh;
+   vertical-align: top;
+}
+
+div.page-head-home:hover {
+   cursor: pointer;
 }
