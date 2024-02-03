@@ -28,7 +28,7 @@ div.page-head-home {
    display: inline-block;
    width: 6.8vh; 
    height: 6.8vh;
-   margin: calc(1.2vh - 1px);
+   margin: calc(0.6vh - 1px);
    background-position: center;
    background-repeat: no-repeat;
    background-size: contain;
