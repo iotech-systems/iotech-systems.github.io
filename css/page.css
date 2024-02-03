@@ -9,7 +9,7 @@ div.page-head {
    height: 8vh;
    line-height: 8vh;
    margin: 2vh auto;
-   /* font-size: 3.2vh; */
+   text-align: right;
    border: 2px solid #dcdcdc;
    border-radius: 4vh;
 }
@@ -21,4 +21,14 @@ div.page-head div {
 div.page-head-lbl {
    font-size: 3.2vh;
    text-indent: 4vh;
+   float: left;
+}
+
+div.page-head-home {
+   display: inline-block;
+   width: 8vh; height: 8vh;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: contain;
+   background-image: url(/imgs/logo_64px.png);
 }
