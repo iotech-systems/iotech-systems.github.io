@@ -6,7 +6,7 @@ html, body {
 
 div.page-head {
    width: 98vw;
-   height: 8vh;
+   height: 8vh !important;
    line-height: 8vh;
    margin: 2vh auto;
    text-align: right;
