@@ -3,7 +3,7 @@
 class pageApp {
 
    init() {
-      alert("pageinit")
+      console.log("page_init");
    }
 
 };
