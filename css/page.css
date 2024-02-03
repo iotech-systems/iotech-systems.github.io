@@ -9,8 +9,16 @@ div.page-head {
    height: 8vh;
    line-height: 8vh;
    margin: 2vh auto;
-   font-size: 3.2vh;
-   text-indent: 4vh;
+   /* font-size: 3.2vh; */
    border: 2px solid #dcdcdc;
    border-radius: 4vh;
+}
+
+div.page-head div {
+   display: inline-block;
+}
+
+div.page-head-lbl {
+   font-size: 3.2vh;
+   text-indent: 4vh;
 }
