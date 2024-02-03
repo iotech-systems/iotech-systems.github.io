@@ -1,0 +1,10 @@
+
+html, body {
+   margin: 0;
+   padding: 0;
+}
+
+div.page-head {
+   width: 100vw;
+   height: 8vh;
+}
